@@ -1,0 +1,33 @@
+{
+  "name": "wishee-card",
+  "version": "1.0.0",
+  "description": "view my card — all within your terminal!",
+  "main": "bin/card.js",
+  "bin": {
+    "wishee-card": "bin/card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishnav-mk/wishee-card.git"
+  },
+  "keywords": [
+    "card",
+    "business-card",
+    "wishee",
+    "wishee-card"
+  ],
+  "author": "vaishnav-mk",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/vaishnav-mk/wishee-card/issues"
+  },
+  "homepage": "https://github.com/vaishnav-mk/wishee-card#readme",
+  "devDependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.1.2"
+  }
+}
