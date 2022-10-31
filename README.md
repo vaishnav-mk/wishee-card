@@ -6,5 +6,10 @@ View my card — within your terminal!
 ## Requirement(s):
 - `npm`
 
+## Usage:
+```
+npx wishee
+```
+
 ## Credit(s):
 - Forked from [@bitandbang](https://twitter.com/bitandbang/status/1075473070368919552) ([repo](https://github.com/bnb/bitandbang)) via @natterstefan
