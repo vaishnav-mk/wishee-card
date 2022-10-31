@@ -1,2 +1,2 @@
 # wishee-card
-View my card — all within your terminal!
+View my card — within your terminal!
