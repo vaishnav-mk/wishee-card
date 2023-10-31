@@ -19,9 +19,9 @@ const data = {
   labelLinkedIn: chalk.white.bold('  LinkedIn:'),
   linkedin: chalk.cyan('https://linkedin.com/in/vaishnav-mk'),
   labelResume: chalk.white.bold('    Resume:'),
-  resume: chalk.cyan('https://vaishnav.tech/resume'),
+  resume: chalk.cyan('https://vaishnav.one/resume'),
   labelWeb: chalk.white.bold('       Web:'),
-  web: chalk.cyan('https://vaishnav.tech'),
+  web: chalk.cyan('https://vaishnav.one'),
   labelCard: chalk.white.bold('      Card:'),
   npx: chalk.red('npx') + ' ' + chalk.white('wishee'),
 }
